@@ -9,7 +9,7 @@
 Claude, ChatGPT и Antigravity ходят в интернет только через ваш прокси.<br>
 Если связь оборвётся, их трафик остановится, а не уйдёт напрямую.
 
-[![Скачать для Mac](https://img.shields.io/badge/Скачать_для_Mac-1.2.2-111111?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/and-ray-m/AIProxy.app/releases/latest)
+[![Скачать для Mac](https://img.shields.io/badge/Скачать_для_Mac-1.2.3-111111?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/and-ray-m/AIProxy.app/releases/latest)
 &nbsp;
 [![Поддержать проект](https://img.shields.io/badge/Поддержать_проект-чаевые-555555?style=for-the-badge)](https://pay.cloudtips.ru/p/3ab3ad71)
 
