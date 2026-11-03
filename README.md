@@ -9,7 +9,7 @@
 Claude, ChatGPT и Antigravity ходят в интернет только через ваш прокси.<br>
 Если связь оборвётся, их трафик остановится, а не уйдёт напрямую.
 
-[![Скачать для Mac](https://img.shields.io/badge/Скачать_для_Mac-1.1.1-111111?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/and-ray-m/AIProxy.app/releases/latest)
+[![Скачать для Mac](https://img.shields.io/badge/Скачать_для_Mac-1.2.0-111111?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/and-ray-m/AIProxy.app/releases/latest)
 &nbsp;
 [![Поддержать проект](https://img.shields.io/badge/Поддержать_проект-чаевые-555555?style=for-the-badge)](https://pay.cloudtips.ru/p/3ab3ad71)
 
@@ -78,11 +78,14 @@ Claude, ChatGPT и Antigravity открываются из AIProxy, только
 
 В разделе «Перехват приложений» видны все ваши программы, и у каждой понятно, идёт она через прокси или мимо.
 
+### 🔄 Обновления
+В Настройках AIProxy проверит новую версию на GitHub, скачает образ и сверит его контрольную сумму. Останется перенести приложение из открытого образа в «Программы».
+
 <br>
 
 ## Приватность
 
-- **Всё на вашем Mac.** Никаких серверов AIProxy нет, данные никуда не отправляются.
+- **Данные прокси остаются на вашем Mac.** Серверов AIProxy нет; только при проверке обновления приложение обращается к GitHub.
 - **Никакой телеметрии и аналитики.**
 - **Ваш прокси, ваши правила.** AIProxy работает с любым SOCKS5-прокси.
 - **Локальные адреса не трогаются.** Программы на вашем Mac общаются друг с другом напрямую.
